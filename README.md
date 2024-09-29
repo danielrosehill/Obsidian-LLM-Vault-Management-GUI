@@ -6,19 +6,53 @@ Simple Python GUI for performing management actions over an Obsidian vault optim
 
 ## Screenshots, V1
 
+### GUI Appearance
+
 ![alt text](Screenshots/V1/1.png)
+
+---
 
 ![alt text](Screenshots/V1/2.png)
 
+---
+
+### Automatic prompt extraction (copies prompts into prompts folder)
+
 ![alt text](Screenshots/V1/3.png)
+
+---
+
+### Automatic bidirectional link creation between prompts and outputs
+
+#### "Extracted prompts" are appended to outputs
 
 ![alt text](Screenshots/V1/4.png)
 
+---
+
+#### Prompts also link to the outputs generated from them
+
 ![alt text](Screenshots/V1/5.png)
+
+---
+
+### Create reports to track growth of prompt and output storage vault
 
 ![alt text](Screenshots/V1/6.png)
 
+---
+
+### Report Format
+
 ![alt text](Screenshots/V1/7.png)
+
+---
+
+### Simple JSON Files Store Metrics History Within The Vault
+
+![alt text](Screenshots/V1/8.png)
+
+![alt text](Screenshots/V1/9.png)
 
 ## Use Case Statement
 
